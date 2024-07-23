@@ -4,14 +4,14 @@
 
 FROM quay.io/sampandey001/secktor
 
-RUN git clone https://github.com/prexzybooster/prexzy-md-v1 /root/Gifted
+RUN git clone https://github.com/prexzybooster/prexzy-md-v1 /root/prexzybooster
 
 # Clear npm cache and remove node_modules directories
 RUN npm cache clean --force
 RUN rm -rf /root/Gifted/node_modules
 
 # Install dependencies
-WORKDIR /root/Gifted
+WORKDIR /root/prexzybooster
 RUN npm install
 
 # Add additional Steps To Run...
