@@ -1,7 +1,7 @@
 {
-   "name": "gifted-md",
+   "name": "prexzy-md-v1",
    "version": "3.0.0",
-   "description": "Multi device whatsapp bot by GiftedTech.",
+   "description": "Multi device whatsapp bot by PREXZYVILLA.",
    "main": "index.js",
    "type": "commonjs",
    "scripts": {
