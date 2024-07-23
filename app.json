@@ -1,15 +1,15 @@
 {
-    "name": "gifted-md@3.0.0",
-    "description": "I am Gifted-Md Whatsapp MultiDevice Whatsapp Bot built in NodeJs to make experience better",
-    "logo": "https://telegra.ph/file/a202f454c9532c3f5b7f8.jpg",
-    "keywords": ["gifted-md", "giftedtech", "Gifted-Md"],
+    "name": "PREXZY-MD-V1",
+    "description": "I am Prexzy-Md-V1 Whatsapp MultiDevice Whatsapp Bot built in NodeJs to make experience better",
+    "logo": "https://telegra.ph/file/c3367b00001035677cc6b.jpg",
+    "keywords": ["prexzy-md-v1", "prexzyvilla", "PREXZY-MD-V1"],
     "success_url": "/",
     "stack": "container",
   
     "env": {
       "OWNER_NAME": {
         "description": "Name for Bot Owner",
-        "value": "Gifted Tech",
+        "value": "PRECIOUS AYOMIDE",
         "required": false
       },
   
@@ -26,17 +26,17 @@
       "BOT_NAME": {
         "description": "Your Bot Name",
         "required": false,
-        "value": "ɢɪғᴛᴇᴅ-ᴍᴅ"
+        "value": "PREXZY BOT"
       },
       "TZ": {
         "description": "Put TIME_ZONE according to your location",
         "required": false,
-        "value": "Africa/Nairobi"
+        "value": "Africa/Lagos"
       },
          "SUDO": {
         "description": "Numbers you wish to be second bot owners",
         "required": false,
-        "value": "254762016957"
+        "value": "2349159895444"
       },
       "READ_COMMAND": {
         "description": " Read bot cmds",
@@ -94,15 +94,15 @@
       },
        "USER_IMAGES": {
         "description": "User Images",
-        "value": "https://telegra.ph/file/a202f454c9532c3f5b7f8.jpg"
+        "value": "https://telegra.ph/file/c3367b00001035677cc6b.jpg"
       },
       "THUMB_IMAGE": {
       "description": "Menu Image",
-      "value": "https://telegra.ph/file/a202f454c9532c3f5b7f8.jpg"
+      "value": "https://telegra.ph/file/c3367b00001035677cc6b.jpg"
       },
       "OWNER_NUMBER": {
         "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-        "value": "254762016957,254110853827,254728746852,255655147353,254728782591"
+        "value": "2349159895444"
       },
       "SESSION_ID": {
         "description": "put your SESSION_ID here.",
@@ -114,12 +114,12 @@
       },
       "PACK_NAME": {
         "description": "Put Sticker Pack_Name.",
-        "value": "ɢɪғᴛᴇᴅ-ᴍᴅ♥️",
+        "value": "PREXZY♥️",
         "required": false
       },
       "PACK_AUTHER": {
         "description": "Put Sticker Author_Name.",
-        "value": "ɢɪғᴛᴇᴅ ᴛᴇᴄʜ",
+        "value": "PREXZY",
         "required": false
       }
     },
